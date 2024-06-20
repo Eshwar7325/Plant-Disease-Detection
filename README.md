@@ -1,4 +1,4 @@
-***Plant Disease Detection***
+****Plant Disease Detection****
 
 The scope of the "Plant Disease Detection Using Deep Learning and Python" project encompasses several key aspects aimed at developing a robust and practical solution for agricultural applications. The project involves the creation and training of a convolutional neural network (CNN) model capable of accurately identifying various plant diseases from leaf images.
 
